@@ -1,0 +1,7 @@
+print ("Isac Eriksson, IT-23")
+print (1 + 2 + 3 +4 +5 )
+print (15 / 4)
+print (15 % 4)
+print (3.4 + 1.3 + 5)
+print (type (3.4 + 1.3 + 5))
+print ("Mio är super snäll")
